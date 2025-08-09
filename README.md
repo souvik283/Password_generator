@@ -1,15 +1,18 @@
-# 😂 See Random Jokes Website
+# 🔐 Random Password Generator
 
-A fun and interactive website that displays random jokes with just one click. Built using **HTML**, **CSS**, and **JavaScript**, this project fetches jokes dynamically to keep users entertained every time they visit.
+A simple and secure **Random Password Generator** built with **HTML**, **CSS**, and **JavaScript**. This tool allows users to quickly generate strong and customizable passwords to enhance security for online accounts.
 
 ## 🚀 Features
-- Displays a random joke on each click.
-- Simple, clean, and responsive design.
-- Instant joke loading without page refresh.
-- Fun and engaging user experience.
+- Generates strong random passwords.
+- Option to include uppercase, lowercase, numbers, and special characters.
+- Adjustable password length.
+- Copy-to-clipboard functionality.
+- Responsive and clean UI.
 
 ## 🛠️ Technologies Used
-- **HTML** – Structure of the website.
-- **CSS** – Styling for a modern look.
-- **JavaScript** – Fetching and displaying jokes dynamically.
+- **HTML** – Website structure.
+- **CSS** – Styling and layout.
+- **JavaScript** – Password generation logic.
 
+## 📸 Preview
+![Preview](password.jpg)
