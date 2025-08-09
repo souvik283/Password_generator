@@ -15,4 +15,4 @@ A simple and secure **Random Password Generator** built with **HTML**, **CSS**, 
 - **JavaScript** – Password generation logic.
 
 ## 📸 Preview
-![Preview](password.jpg)
+![Preview](password.png)
